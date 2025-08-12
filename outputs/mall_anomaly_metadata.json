@@ -1,0 +1,15 @@
+{
+  "features": [
+    "Age",
+    "Annual_Income_k",
+    "Spending_Score",
+    "Gender"
+  ],
+  "contamination": 0.05,
+  "threshold": 0.624852118326352,
+  "models": {
+    "isolation_forest": true,
+    "lof": true,
+    "one_class_svm": false
+  }
+}
